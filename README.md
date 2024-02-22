@@ -1,5 +1,5 @@
 # Expo In-App Purchases Fix for Google Play Billings v5
-This is a repository forked from the module `expo-in-app-purshases` from [expo](https://github.com/expo/expo) ([see in npm](https://www.npmjs.com/package/expo-in-app-purchases)) that contain a upgrade for the Google Play Billings library.
+This is a repository forked from the module `expo-in-app-purchases` from [expo](https://github.com/expo/expo) ([see in npm](https://www.npmjs.com/package/expo-in-app-purchases)) that contain a upgrade for the Google Play Billings library.
 
 Actually, the original module use the v4 of the library, which is now deprecated and no longer supported on Google Play Console. With this fix, you can still use this module and publish your app in Play Store.
 
