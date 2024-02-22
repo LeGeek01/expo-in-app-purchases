@@ -1,17 +1,11 @@
 {
-  "name": "expo-in-app-purchases",
-  "version": "14.5.0",
+  "name": "@legeek01/expo-in-app-purchases",
+  "version": "1.0.0",
   "description": "Expo unimodule for accepting in-app purchases",
   "main": "build/InAppPurchases.js",
   "types": "build/InAppPurchases.d.ts",
   "scripts": {
-    "build": "expo-module build",
-    "clean": "expo-module clean",
-    "lint": "expo-module lint",
-    "test": "expo-module test",
-    "prepare": "expo-module prepare",
-    "prepublishOnly": "expo-module prepublishOnly",
-    "expo-module": "expo-module"
+
   },
   "keywords": [
     "react-native",
@@ -20,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/expo.git",
+    "url": "https://github.com/LeGeek01/expo-in-app-purchases.git",
     "directory": "packages/expo-in-app-purchases"
   },
   "bugs": {
